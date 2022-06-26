@@ -1,4 +1,4 @@
-[![MasterHead]([a.gif])
+[![MasterHead]([/a.gif])}
 <h1 align="center">Hi 👋, I'm Minh Vy Ha</h1>
 <h3 align="center">A aspiring software engineer</h3>
 
