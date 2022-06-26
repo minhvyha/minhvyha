@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhvy828&label=Profile%20views&color=0e75b6&style=flat" alt="minhvy828" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhvy828" alt="minhvy828" /></a> </p>
+
 - 🔭 I’m currently working on [Sudoku Solver](https://github.com/minhvy828/Sudoku)
 
 - 🌱 I’m currently learning **Web Development**
@@ -33,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhvy828&show_icons=true&theme=dark&hide_border=true&locale=en" alt="minhvy828" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhvy828&" alt="minhvy828" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhvy828&theme=dark" alt="minhvy828" /></p>
