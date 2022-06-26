@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/minhvy828/minhvy828/main/a.gif)
 <h1 align="center">Hi 👋, I'm Minh Vy Ha</h1>
-<h3 align="center">A aspiring software engineer</h3>
+<h3 align="center">An aspiring software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhvy828&label=Profile%20views&color=0e75b6&style=flat" alt="minhvy828" /> </p>
 
