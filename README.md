@@ -26,15 +26,15 @@
 
 - ⚡ Fun fact **I love piano and exercise**
 
-## LeetCode Stats
+# LeetCode Stats
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/minhvy828?theme=dark&font=baloo&extension=activity)
 
-## GitHub Stats
+# GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhvy828&show_icons=true&theme=dark&hide_border=true&locale=en" alt="minhvy828" /></p>
 
-## GitHub Streak
+# GitHub Streak
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhvy828&theme=dark" alt="minhvy828" /></p>
 
