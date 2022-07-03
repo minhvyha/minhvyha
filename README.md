@@ -32,10 +32,10 @@
 
 # GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhvy828&show_icons=true&theme=dark&hide_border=true&locale=en" alt="minhvy828" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhvy828&theme=github_dark&show_icons=true&count_private=true" alt="minhvy828" /></p>
 
 # GitHub Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhvy828&theme=dark" alt="minhvy828" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=minhvy828&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="minhvy828" /></p>
 
 
