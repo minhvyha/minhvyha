@@ -18,11 +18,10 @@
 
 - 🔭 I’m currently working on [Sudoku Solver](https://github.com/minhvy828/Sudoku)
 
-- 👨‍💻 All of my projects are available at [https://minhvyha.tech](https://minhvyha.tech)
+- 👨‍💻 All of my projects are available [here](https://minhvyha.tech)
 
 - 📫 How to reach me **MinhVy.Ha@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1wAJhxsz8Tcs1yc0SkwN_LIc7uIe-4inm?usp=sharing](https://drive.google.com/drive/folders/1wAJhxsz8Tcs1yc0SkwN_LIc7uIe-4inm?usp=sharing)
 
 - ⚡ Fun fact **I love piano and exercise**
 
