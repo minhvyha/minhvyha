@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhvy828&label=Profile%20views&color=0e75b6&style=flat" alt="minhvy828" /> </p>
 
 # Minh Vy Ha
-👨🏻‍💻 Aspiring software engineer as a student, I am constantly learning new technologies and knowledge related to my future career. I am excited about all the opportunities where I can work and learn new technologies related to my career. I love connecting with new people, give me a shout at Minhvy.ha@outlook.com.
+👨🏻‍💻 Software Engineer at Project Flux. I love connecting with new people, give me a shout at Minhvy.ha@outlook.com.
 
 # My Work
 - 🖥 My portfolio website was Implemented in HTML | CSS | JS with the support of Bedimcode. This website taught me a lot about the fundamentals of web development, and it demonstrates all other personal projects that I have completed.
