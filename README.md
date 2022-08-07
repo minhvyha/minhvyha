@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhvy828&label=Profile%20views&color=0e75b6&style=flat" alt="minhvy828" /> </p>
 
 # Minh Vy Ha
-👨🏻‍💻 Software Engineer at Project Flux. I love connecting with new people, give me a shout at Minhvy.ha@outlook.com.
+👨🏻‍💻 I am Minh, a software engineer based in Australia, and I currently work as a web developer and full-stack developer with the end goal of a full-time role in the tech industry. My career started on 07/2022 when I got my first job at the age of 17 at a start-up tech company in Singapore. I love connecting with new people, give me a shout at Minhvy.ha@outlook.com.
 
 # My Work
 - 🖥 My portfolio website was Implemented in HTML | CSS | JS with the support of Bedimcode. This website taught me a lot about the fundamentals of web development, and it demonstrates all other personal projects that I have completed.
