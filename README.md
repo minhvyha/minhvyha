@@ -29,6 +29,10 @@
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/minhvy828?theme=dark&font=baloo&extension=activity)
 
+# Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhvy828&langs_count=8&theme=github_dark)
+
 # GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhvy828&theme=github_dark&show_icons=true&count_private=true" alt="minhvy828" /></p>
