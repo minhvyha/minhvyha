@@ -35,7 +35,7 @@
 
 # GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhvy828&theme=github_dark&show_icons=true&count_private=true" alt="minhvy828" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhvy828&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" alt="minhvy828" /></p>
 
 # GitHub Streak
 
