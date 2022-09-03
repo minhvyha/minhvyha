@@ -25,14 +25,6 @@
 
 - ⚡ Fun fact **I love piano and exercise**
 
-# LeetCode Stats
-
-![LeetCode Stats](https://leetcode.card.workers.dev/minhvy828?theme=dark&font=baloo&extension=activity)
-
-# Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhvy828&langs_count=8&theme=github_dark)
-
 # GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhvy828&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" alt="minhvy828" /></p>
@@ -40,5 +32,15 @@
 # GitHub Streak
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=minhvy828&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="minhvy828" /></p>
+
+# Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhvy828&langs_count=8&theme=github_dark)
+
+# LeetCode Stats
+
+![LeetCode Stats](https://leetcode.card.workers.dev/minhvy828?theme=dark&font=baloo&extension=activity)
+
+
 
 
