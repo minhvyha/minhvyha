@@ -16,7 +16,7 @@
 
 - 🧭 Pathfinding visualization was my first ever project using Python and library pygame. 70% of the project is programmed by myself.
 
-- 🔭 I’m currently working on [Sudoku Solver](https://github.com/minhvy828/Sudoku)
+- 🔭 I’m currently working on [Stock Exchange](https://github.com/minhvy828/Stock-Market)
 
 - 👨‍💻 All of my projects are available [here](https://minhvyha.tech)
 
