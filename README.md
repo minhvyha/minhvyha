@@ -10,7 +10,7 @@
 
 # My Experience
 
-- At Project Flux, I developed applications and implemented new features that resulted in an increase of 30% completion time and 70% in code quality for the software by leading a team of 20 co-developers. 
+- At Greenie Web, I developed applications and implemented new features that resulted in an increase of 30% completion time and 70% in code quality for the software by leading a team of 20 co-developers. 
 
 # My Projects
 
