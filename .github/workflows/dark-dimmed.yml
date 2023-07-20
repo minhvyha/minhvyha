@@ -24,4 +24,4 @@ jobs:
       with:
         colors: dark-dimmed
       env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        GITHUB_TOKEN: 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
