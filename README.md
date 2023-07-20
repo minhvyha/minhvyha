@@ -33,7 +33,7 @@
 
 # GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhvyha&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" alt="minhvyha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-iota-one-89.vercel.app/api?username=minhvyha&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" alt="minhvyha" /></p>
 
 # GitHub Streak
 
