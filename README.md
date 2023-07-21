@@ -31,10 +31,6 @@
 
 - ⚡ Fun fact **I love piano and exercise**
 
-# GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-iota-one-89.vercel.app/api?username=minhvyha&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" alt="minhvyha" /></p>
-
 # GitHub Streak
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=minhvyha&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="minhvyha" /></p>
