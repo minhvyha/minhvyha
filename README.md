@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on [Stock Exchange](https://github.com/minhvyha/Stock-Market)
 
-- 👨‍💻 All of my projects are available [here](https://minhvyha.tech)
+- 👨‍💻 All of my projects are available [here](https://minhvyha.com)
 
 - 📫 How to reach me **MinhVy.Ha@outlook.com**
 
