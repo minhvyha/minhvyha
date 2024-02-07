@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhvyha&label=Profile%20views&color=0e75b6&style=flat" alt="minhvyha" /> </p>
 
 # Minh Vy Ha
-👨🏻‍💻 Dedicated Junior Software Engineer with 1+ years of experience in software & web development. I help companies to develop desktop applications, websites and software that exceed an average of 150% of the requirement in terms of features and deadlines. My career started on 07/2022 when I got my first job at the age of 17 at a start-up tech company in Singapore. I love connecting with new people, give me a shout at Minhvy.ha@outlook.com.
+👨🏻‍💻 Dedicated Junior Software Engineer with 2+ years of experience in software & web development. I help companies to develop desktop applications, websites and software that exceed an average of 150% of the requirement in terms of features and deadlines. My career started on 07/2022 when I got my first job at the age of 17 at a start-up tech company in Singapore. I love connecting with new people, give me a shout at Minhvy.ha@outlook.com.
 
 # My Experience
 
