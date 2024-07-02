@@ -33,7 +33,7 @@
 
 # GitHub Streak
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=minhvyha&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="minhvyha" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=minhvyha&theme=dark)](https://git.io/streak-stats)
 
 # Top Languages
 
